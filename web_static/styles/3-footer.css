@@ -1,0 +1,18 @@
+/* ===== Footer style ===== */
+footer {
+	background-color: white;
+	height: 60px;
+	width: 100%;
+	border-top: 1px solid #CCCCCC;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	position: fixed;
+	bottom: 0;
+	line-height: 60px
+}
+/* bolden footer text */
+footer p strong {
+	font-weight: bold;
+}
